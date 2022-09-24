@@ -1,0 +1,134 @@
+---
+title: "<h3><b>Machine Learning in the History Classroom: Using Artificial Intelligence for a Student-led Inquiry into Redlining</b></h3><br/>"
+author: "Amato Nocera and Jennifer Houchins"
+institute: "North Carolina State University"
+format:
+  revealjs: 
+    theme: simple
+    title-slide-attributes:
+      data-background-image: img/DurhamRedliningMap.png
+      data-background-size: cover
+      data-background-opacity: "0.1"
+---
+
+## Quarto {visibility="hidden"}
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+```{r}
+1 + 1
+```
+
+## <span style='color: #CC0000;'>The Team</span>
+::: {layout-ncol=3 layout-nrow=2}
+![Amato Nocera](img/Amato.jpeg){fig-align="center" width="200" height="200" style="text-align: center; border-radius: 50%;"}
+
+![Jennifer Houchins](img/Jenn.jpg){fig-align="center" width="200" height="200" style="text-align: center; border-radius: 50%;"}
+
+![Shiyan Jiang](img/Shiyan.jpeg){fig-align="center" width="200" height="200" style="text-align: center; border-radius: 50%;"}
+
+![Vicky Newton](img/Vicki.jpg){fig-align="center" width="200" height="200" style="text-align: center; border-radius: 50%;"}
+
+![Cansu Tatar](img/Cansu.jpg){fig-align="center" width="200" height="200" style="text-align: center; border-radius: 50%;"}
+
+![Melani Winter](img/Melani.jpg){fig-align="center" width="200" height="200" style="border-radius: 50%; text-align: center;"}
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## <span style='color: #CC0000;'>The Pilot Study</span>
+
+- Conducted in May 2022
+- Study of a historical inquiry into redlining built on a unique pairing of educational technology and primary source investigation
+- Week-long curricular intervention
+- High school sophomores at an urban public high school
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## <span style='color: #CC0000;'>The Curriculum </span>
+
+Our curriculum consisted of **five 45-minute** lessons.
+
+- **Day 1:** Historical context of redlining
+- **Day 2:** Intro to the StoryQ Platform
+- **Day 3:** Groups work to predict words and phrases correlated with neighborhood ratings
+- **Day 4:** Exploring "unigram" models
+- **Day 5:** Unit reflection and what they had found during their inquiry
+
+::: {.notes}
+We developed and implemented a week-long curricular intervention in which high school sophomores used an AI textual modeling platform to examine the history of redlining, drawing on hundreds of neighborhood descriptions produced for the federal government’s “residential security maps” in the late 1930s. As a policy, redlining devastated African American neighborhoods, resulting in the denial of low-interest mortgages for many Black families while facilitating the accumulation of wealth and middle-class status for White families (Coates, 2014; Rothstein, 2017). Using modeling techniques, students searched for patterns in the language of these primary sources and connected this back to the broader historical context. 
+
+After two introductory lessons, which included an interactive lecture on redlining and a guided lesson through the StoryQ platform—a free web-based text mining and AI modeling platform for K-12—students began to explore patterns in over three hundred neighborhood descriptions. 
+
+Using StoryQ, students worked in groups to predict words and phrases that were correlated with the Home Owners Loan Corporation’s (HOLC) rating system, which ranked neighborhoods between A and D based on the perceived “risk” to mortgage lenders. Lesson four had students view a “unigram,” which amounts to an AI-generated ranking of the types of words HOLC agents used in their descriptions and their relative associations with neighborhood ratings. Students then sought to explain patterns in language identified by the software. Lesson five gave students time to reflect on the unit and what they had found during the inquiry.
+
+We used the linked Google classroom materials to provide students curriculum materials. 60 out of 100 students consented to participate in the research conducted in tandem with this curricular intervention.
+:::
+
+##  {background-iframe="https://dsl.richmond.edu/panorama/redlining/#loc=13/36/-78.95&city=durham-nc" background-interactive=true}
+
+
+::: {.notes}
+Mapping Inequality
+:::
+
+## {background-iframe="https://codap.concord.org/app/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2FxpcW1UlO4EqNtvgnmJ56%2Ffile.json" background-interactive=true}
+
+::: {.notes}
+StoryQ
+:::
+
+## <span style='color: #CC0000;'>Insights Gained</span>
+::: {.incremental .fade-up}
+- Unique potential of using AI for historical inquiry that helped students consider structural explanations for racial inequality
+- Key component was continually emphasizing that the neighborhood descriptions represented the views of government actors rather than neutral portrayals
+- We found students speaking explicitly to how neighborhood descriptions worked in service of creating racial segregation and its accompanying inequality
+- Students expressed affordances of using the StoryQ platform
+:::
+
+::: {.notes}
+In part, the problem faced by social studies teachers is the tension between curricular breadth versus depth where very few teachers have the time or resources to allow for students to investigate a large set of historical documents. However, as scholars and practitioners’ tout the importance of teaching students to “think like a historian” (Wineburg, 2001), narrow document-based approaches to inquiry overlook one of the most vital aspects to how historians’ reason: finding patterns across primary sources and looking for trends. 
+
+Drawing on AI, our study offers a tangible model for easing the curricular dilemma of breadth versus depth and increasing students’ ability to engage in deeper-level historical thinking.
+:::
+
+## <span style='color: #CC0000;'>Additional Funding and Future Work</span>
+::: {.incremental .fade-up}
+- <span style="color: #4156A1;">**_Dr. Nocera awarded a $50,000 Data Science Academy Seed Grant_**</span> (co-PIs are Drs. Shiyan Jiang and Christy Byrd)
+- Supplemental funds for the original NSF StoryQ grant
+- Next year, we <span style="color: #4156A1;">**_will partner with scholars who developed Mapping Inequality_**</span>   
+- Curriculum to be modified for an <span style="color: #4156A1;">**_NSF ITEST proposal that aims to examine the implementation of AI across a spectrum of traditional subjects_**</span> (i.e. Math, English, History, and Science.) in classrooms in Maryland, Massachusetts, and California
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+ 
+##
+<br />
+<br />
+
+:::: {.columns}
+
+::: {.column width="50%" .r-fit-stretch}
+<br /><br /><br />
+<span style='font-size: 56pt;'>**Questions?**</span>
+:::
+
+::: {.column width="50%"}
+**Contact us:**
+<br />
+<br />
+<span style='color: #CC0000;'>**Amato Nocera**</span><br />
+asnocera@ncsu.edu
+<br />
+<br />
+<span style='color: #CC0000;'>**Jennifer Houchins**</span><br />
+jennifer.houchins@wested.org
+:::
+
+::::
