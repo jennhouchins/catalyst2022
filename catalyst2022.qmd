@@ -5,6 +5,8 @@ institute: "North Carolina State University"
 format:
   revealjs: 
     theme: simple
+    logo: img/redbrick.png
+    footer: "<a href='https://go.ncsu.edu/project-hiai'>go.ncsu.edu/project-hiai</a>"
     title-slide-attributes:
       data-background-image: img/DurhamRedliningMap.png
       data-background-size: cover
