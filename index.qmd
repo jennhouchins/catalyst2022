@@ -36,6 +36,10 @@ Quarto enables you to weave together content and executable code into a finished
 ![Melani Winter](img/Melani.jpg){fig-align="center" width="200" height="200" style="border-radius: 50%; text-align: center;"}
 :::
 
+::: footer
+
+:::
+
 ::: {.notes}
 Speaker notes go here.
 :::
@@ -73,12 +77,19 @@ We used the linked Google classroom materials to provide students curriculum mat
 
 ##  {background-iframe="https://dsl.richmond.edu/panorama/redlining/#loc=13/36/-78.95&city=durham-nc" background-interactive=true}
 
+::: footer
+
+:::
 
 ::: {.notes}
 Mapping Inequality
 :::
 
 ## {background-iframe="https://codap.concord.org/app/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2FxpcW1UlO4EqNtvgnmJ56%2Ffile.json" background-interactive=true}
+
+::: footer
+
+:::
 
 ::: {.notes}
 StoryQ
